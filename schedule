@@ -1,15 +1,17 @@
 <section class="ssf-schedule">
   <div class="container wide hero">
     <h1 class="gradient-text">Personal Training &amp; CrossFit Schedule – Alexandria, VA</h1>
-    <p class="hero-sub">View our Personal Training, CrossFit schedule, and Open Gym Schedule. Plus view our booking instructions for Personal Training, CrossFit, Inbody Scans, and More..</p>
+    <p class="hero-sub">View our Personal Training, CrossFit schedule, and Open Gym Schedule. Plus view our <a href="#booking-policy">booking policy</a> for Personal Training, CrossFit, Inbody Scans, and More..</p>
 
-    <div class="hero-cta">
-      <div class="hero-cta"><a class="btn-primary" href="/trial-personal-training">Personal Training Trial</a>
-        <a class="btn-secondary" href="/trial-crossfit">CrossFit Trial</a>
-        <a class="btn-tertiary" href="/trial-open-gym">Open Gym Trial</a>
-      </div>
-    </div>
-    <div class="note">Flexible scheduling choices for personal training and CrossFit.</div>
+<nav class="svc-onpage-nav" aria-label="On-page navigation">
+  <ul>
+    <li><a href="https://ssf.pushpress.com/landing/plans/plan_11109f3bcc7d9a/login">Personal Training Trial</a></li>
+    <li><a href="https://ssf.pushpress.com/landing/plans/plan_a8243047c922d2/login">CrossFit Trial</a></li>
+    <li><a href="https://ssf.pushpress.com/landing/plans/plan_9b048664ad914e/login">Open Gym Trial</a></li>
+    <li><a href="#booking-policy" class="cta">Booking Policy</a></li>
+  </ul>
+</nav>
+    <div class="note" style ="text-align: center">Browse our scheduling and calendar for personal training, nutrition, open gym, and CrossFit.</div>
   </div>
   <div class="container wide cards-grid">
     <article class="card service-card">
@@ -17,7 +19,7 @@
         <div class="icon-badge" aria-hidden="true">💪</div>
         <h2>Personal Training &amp; InBody Scans</h2>
       </header>
-      <p class="lead">1-on-1 coaching tailored to your goals (strength, weight loss, mobility, rehab). <strong>InBody 570</strong> scans available during PT hours.</p>
+      <p class="lead">1-on-1 coaching tailored to your goals (strength, weight loss, mobility, rehab).</p>
 
       <ul class="highlights">
         <li><strong>Mon–Fri</strong> — 7:15a–10:00a • 4:15p–7:45p</li>
@@ -89,6 +91,103 @@
 
     </article>
   </div>
+<!-- NEW: Booking Policy Section -->
+  <div class="container wide booking-policy-section" id="booking-policy">
+    <div class="booking-policy-card">
+      <header class="card-header">
+        <div class="icon-badge" aria-hidden="true">📋</div>
+        <h2 id="booking-policy" class="svc-anchor">Booking Policy</h2>
+      </header>
+      <div class="policy-intro">
+        <p>It is always the responsibility of the member to book and cancel reservations. The only way to book and cancel sessions is with the Member App. You cannot cancel or reserve a session by talking to a coach or the owners, sending a text or message, etc. It's not necessary to provide a reason for late cancellation.</p>
+        <p>The reason we charge a late cancellation fee is that we prepare for all the members that are attending the class. Without a fee, people would book and cancel last minute, which would make preparation on a member-level impossible. This would erode the quality of the classes. We understand that emergencies in life and work come up, so if you need a waiver of the late cancellation fee, just email us we'll be able to waiver the cancellation fee for you.</p>
+        <p>Late reservations may be requested through our <a href="https://www.sandandsteelfitness.com/forms/">late registration form</a>.</p>
+      </div>
+
+      <div class="policy-summary">
+        <p><strong>Late cancellation fee:</strong> In general, you'll be charged $7.50 for the late cancellation of classes and personal training. If you late cancel a personal training session or limited CrossFit membership within 6 hours of your appointment time, the session will also be marked as used. If you have some extraordinary circumstance (such as health emergency, accident, etc.), please email Dawn with your "Late Cancel Amnesty Request." We'll consider how much notice you provide based on the cancellation time in the App, the reasoning for the late cancel, your booking and cancellation history, etc. Since a late cancellation hurts the financial stability of our coaches, we have to balance both sides and determine a fair and equitable resolution. We appreciate your understanding of this policy.</p>
+      </div>
+
+      <div class="policy-grid">
+        <div class="policy-service">
+          <h3>Private Sessions</h3>
+          <ul class="policy-list">
+            <li>7 days to 6 Hours to book</li>
+            <li>7 days to 12 hours to cancel</li>
+            <li>Late Cancel Fee: $7.50</li>
+            <li>Late Reservation Fee: $0</li>
+            <li>No-Show Fee: $20 + loss of session</li>
+          </ul>
+        </div>
+
+        <div class="policy-service">
+          <h3>Unlimited CrossFit Memberships</h3>
+          <ul class="policy-list">
+            <li>7 days to 10 Hours to book: Weekday Mornings & Trail Running</li>
+            <li>7 days to 4 Hours to book: CrossFit 9AM</li>
+            <li>7 days to 2 hours to cancel: All other class times</li>
+            <li>Late Cancel Fee: $7.50</li>
+            <li>Late Reservation Fee: $0</li>
+            <li>No-Show Fee: $10 limited memberships and $15 for unlimited memberships</li>
+          </ul>
+        </div>
+
+        <div class="policy-service">
+          <h3>OnRamp, Challenger, Nutrition, Mobility Lab</h3>
+          <ul class="policy-list">
+            <li>7 days to 2 Hours to book</li>
+            <li>7 days to 2 hours to cancel</li>
+            <li>Late Cancel Fee: $7.50</li>
+            <li>Late Reservation Fee: $0</li>
+            <li>No-Show Fee: $15</li>
+          </ul>
+        </div>
+
+        <div class="policy-service">
+          <h3>Open Gym</h3>
+          <ul class="policy-list">
+            <li>7 days to 1 Hours to book</li>
+            <li>7 days to 1 hours to cancel</li>
+            <li>Late Cancel Fee: $7.50</li>
+            <li>Late Reservation Fee: $5</li>
+            <li>No-Show Fee: $10</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container standard secondary-services">
+    <h3>Also Available (Book in the App)</h3>
+    <ul class="chips">
+      <li><a href="/nutrition">Nutrition Coaching</a></li>
+      <li><a href="/rehab-training">Rehab Personal Training</a></li>
+      <li><a href="/run-club">Run Club</a></li>
+      <li><a href="/drop-ins">Drop Ins</a></li>
+    </ul>
+  </div>
+  <div class="container wide compare">
+    <div class="compare-card">
+      <h3>Why Our Schedule Works Better</h3>
+      <ul class="ticks">
+        <li>Fridays <strong>Challenger &amp; CrossFit</strong> (90-min)</li>
+        <li>Sunday <strong>OnRamp</strong> for beginners (90-min)</li>
+        <li>Long <strong>Open Gym</strong> hours daily</li>
+        <li><strong>InBody 570</strong> + data-driven coaching</li>
+      </ul>
+      <div class="inline-cta"><a class="btn-primary" href="/app">Get the App</a>
+        <a class="btn-secondary" href="https://ssf.pushpress.com/landing/calendar" target="_blank" rel="noopener">See Live Calendar</a>
+      </div>
+    </div>
+  </div>
+  <div class="container wide final-cta">
+    <h3 class="gradient-text">Ready to Train?</h3>
+    Join a CrossFit class, schedule personal training, or book your InBody scan today.
+    <div class="hero-cta"><a class="btn-primary" href="/personal-training">Book Personal Training</a>
+      <a class="btn-secondary" href="/crossfit/">Book CrossFit</a>
+    </div>
+  </div>
+</section>
   <div class="container standard secondary-services">
     <h3>Also Available (Book in the App)</h3>
     <ul class="chips">
@@ -381,857 +480,254 @@
   clip: rect(1px, 1px, 1px, 1px);
   white-space: nowrap;
 }
-/* ====== Begin Global CSS ====== */
-/* =========================================
-   Center Image CLS Friendly
-   ========================================= */
-.image-center {
+
+
+/* ====== Booking Policy Section ====== */
+.booking-policy-section {
+  margin-top: clamp(40px, 6vw, 60px);
+  margin-bottom: clamp(40px, 6vw, 60px);
+}
+
+.booking-policy-card {
+  background: var(--card);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+  padding: clamp(18px, 2.2vw, 26px);
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Top gradient accent bar (matching service cards) */
+.booking-policy-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 5px;
+  background: linear-gradient(
+    90deg,
+    var(--magenta),
+    var(--purple),
+    var(--coral),
+    var(--gold)
+  );
+  opacity: 0.9;
+}
+
+/* Header styling (consistent with service cards) */
+.booking-policy-card .card-header {
   display: flex;
-  justify-content: center;
-}
-/* =========================================
-   SSF.Fit — Site Header Color
-   ========================================= */
-.site-header  {
-        background-image: linear-gradient(
-    15deg,
-    #E83E8C 0%,
-    #5F27CD 33%,
-    #FF6F61 66%,
-    #FFD166 100%
-  ) !important;
-  background-color: transparent !important;
-	color:white;
-}
-@media (max-width: 768px) {.main-navigation, .main-navigation ul ul {
-	 background-image: linear-gradient(
-    -1515deg,
-    #E83E8C 0%,
-    #5F27CD 33%,
-    #FFD166 100%
-  ) !important;
-  background-color: transparent !important;
-	color:white;
-	contain: paint;
-}
-}
-
-/* Secondary Navigation - Complete CSS */
-.secondary-navigation {
-    background: linear-gradient(135deg, var(--magenta), var(--purple));
-    padding: 12px 0;
-    box-shadow: var(--shadow);
-}
-
-.secondary-navigation .main-nav ul {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-.secondary-navigation .main-nav ul li a {
-    background: white;
-    color: var(--purple) !important;
-    border: 2px solid var(--purple);
-    border-radius: 6px;
-    padding: 0px 18px;
-    font-weight: 900;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-size: 13px;
-    text-decoration: none;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-}
-
-.secondary-navigation .main-nav ul li a:hover {
-    background: white !important;
-        border-color: var(--coral);
-        color: var(--coral) !important;
-    transform: translateY(-1px);
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .secondary-navigation {
-        padding: 14px 0;
-    }
-    
-    .secondary-navigation .main-nav ul {
-        flex-direction: column;
-        align-items: stretch;
-        padding: 0 50px;
-    }
-    
-    .secondary-navigation .main-nav ul li a {
-        background: rgba(255, 255, 255, 0.95);
-        border: 2px solid white;
-        padding: 8px 20px;
-				margin-top:10px;
-        font-size: 14px;
-        font-weight: 800;
-        width: 100%;
-        text-align: center;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-        display: block;
-    }
-    
-    .secondary-navigation .main-nav ul li a:hover {
-        background: white !important;
-        border-color: var(--coral);
-        color: var(--coral) !important;
-    }
-    
-    /* Mobile toggle button styling */
-    .secondary-navigation .secondary-menu-toggle {
-        color: white !important;
-    }
-    
-    .secondary-navigation .secondary-menu-toggle .mobile-menu {
-        color: white !important;
-    }
-}
-
-
-/* =========================================
-   SSF.Fit — Entry Content Size
-   ========================================= */
-.entry-content .size-large {
-    width: 100%;
-    max-width: 1200px;
-    height: auto;
-}
-
-@media (max-width: 768px) {
-    .entry-content .size-large {
-        max-width: 348px;
-    }
-}
-.entry-content img[width="1920"] {
-    width: 100% !important;
-    height: auto !important;
-}
-/* =========================================
-   Highlighted CTA in Navigation
-   ========================================= */
-
-/* Highlighted CTA in Navigation (desktop + mobile) */
-.main-navigation .menu-cta > a {
-  background: #fff;
-  color: #5F27CD !important;          /* Deep Purple text */
-  border: 2px solid #5F27CD;
-  padding: 0px 20px;
-  border-radius: 50px;
-  font-weight: 600;
-  box-shadow: none;
-  transition: all 0.3s ease;
-}
-
-/* Hover/focus states */
-.main-navigation .menu-cta > a:hover,
-.main-navigation .menu-cta > a:focus {
-  background: linear-gradient(135deg, #E83E8C, #5F27CD);
-  color: #fff !important;
-  border-color: transparent;
-}
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
-  .main-navigation .menu-cta > a {
-    display: block;
-    text-align: center;
-    margin: 10px auto 20px auto; /* breathing room */
-    padding: 8px 16px;
-    width: fit-content;
-  }
-}
-
-/* =========================================
-   SSF.Fit — Global Styles & Tokens
-   ========================================= */
-
-/* ------ Design Tokens (site-wide) ------ */
-:root {
-  --magenta: #E83E8C;
-  --purple:  #5F27CD;
-  --coral:   #FF6F61;
-  --gold:    #FFD166;
-
-  --text:    #2B2B2B;
-  --muted:   #6b7280;
-  --bg:      #ffffff;
-
-  --border:  #eef0f4;
-  --shadow:  0 10px 30px rgba(0,0,0,0.07);
-}
-
-/* =========================================
-   Separators
-   ========================================= */
-hr.wp-block-separator.line-color,
-.wp-block-separator.ss-gradient-separator {
-  border: 0 !important;
-  border-top: 0 !important;
-  height: 2px;
-  width: 75%;
-  margin: 2rem auto;
-  background-image: linear-gradient(
-    to right,
-    #E83E8C 0%,
-    #5F27CD 33%,
-    #FF6F61 66%,
-    #FFD166 100%
-  ) !important;
-  background-color: transparent !important;
-  opacity: 1 !important;
-  display: block;
-  border-radius: 20px;
-}
-
-/* =========================================
-   Global Button System
-   (Primary / Secondary / Tertiary + Link)
-   ========================================= */
-.btn-primary,
-.btn-secondary,
-.btn-tertiary,
-.btn-link {
-  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  padding: 12px 18px;
-  border-radius: 999px;
-  font-weight: 700;
-  font-size: 0.95rem;
-  text-decoration: none;
-  cursor: pointer;
-  transition:
-    transform .15s ease,
-    box-shadow .3s ease,
-    background .3s ease,
-    color .3s ease,
-    border-color .3s ease;
+  gap: 12px;
+  margin-bottom: 16px;
 }
 
-/* Primary (Gradient / Highest Priority) */
-.btn-primary {
-  background: linear-gradient(135deg, var(--magenta), var(--purple));
-  color: #fff;
-  border: none;
-  box-shadow: var(--shadow);
-}
-.btn-primary:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 8px 25px rgba(232, 62, 140, 0.35);
-  text-decoration: none;
+.booking-policy-card .card-header h2 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  margin: 0;
+  color: var(--text);
 }
 
-/* Secondary (Outlined Purple) */
-.btn-secondary {
-  border: 2px solid var(--purple);
-  color: var(--purple);
-  background: #fff;
-}
-.btn-secondary:hover {
-  background: var(--purple);
-  color: #fff;
-  transform: translateY(-1px);
-  box-shadow: var(--shadow);
-  text-decoration: none;
+/* Introduction text */
+.policy-intro {
+  margin-bottom: 24px;
+  color: var(--text);
+  opacity: 0.9;
 }
 
-/* Tertiary (Light Purple Pill — Option C) */
-.btn-tertiary {
-  background: rgba(95, 39, 205, 0.08); /* faint purple */
-  color: var(--purple);
-  border: 1.5px solid rgba(95, 39, 205, 0.15);
-}
-.btn-tertiary:hover {
-  background: rgba(95, 39, 205, 0.15);
-  border-color: var(--purple);
-  color: var(--purple);
-  box-shadow: var(--shadow);
-  text-decoration: none;
+.policy-intro p {
+  margin-bottom: 12px;
+  line-height: 1.6;
 }
 
-/* Link-style CTA (inline text link that still looks intentional) */
-.btn-link {
-  padding: 6px 2px;
-  border-radius: 6px;
-  background: transparent;
-  border: none;
+.policy-intro a {
   color: var(--purple);
-  font-weight: 700;
+  text-decoration: none;
+  font-weight: 600;
 }
-.btn-link:hover {
+
+.policy-intro a:hover {
   text-decoration: underline;
 }
 
-/* Optional: keyboard focus visibility */
-.btn-primary:focus-visible,
-.btn-secondary:focus-visible,
-.btn-tertiary:focus-visible,
-.btn-link:focus-visible {
-  outline: 2px solid var(--purple);
-  outline-offset: 2px;
+/* Policy summary (highlighted section) */
+.policy-summary {
+  background: #f8f9fb;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 24px;
 }
 
-/* =========================================
-   Entry Title (global hero-like post/page title)
-   ========================================= */
-.entry-title {
-	font-size: 2.5em;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif !important;
-  font-weight: 800 !important;
-  line-height: 1.1 !important;
-  color: #1a252f !important;
-  text-align: center !important;
-  padding: 2rem 1rem 1rem !important;
-  position: relative !important;
-  letter-spacing: -0.02em !important;
-  background-image: linear-gradient(135deg, #2c3e50 0%, #3498db 50%, #e74c3c 100%) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
-  text-shadow: none !important;
-  background-color: rgba(255, 255, 255, 0.95) !important;
+.policy-summary p {
+  margin: 0;
+  color: var(--text);
+  line-height: 1.6;
 }
 
-/* Accent bar under entry title */
-.entry-title::after {
-  content: '' !important;
-  display: block !important;
-  width: 120px !important;
-  height: 6px !important;
-  background: linear-gradient(90deg, #3498db 0%, #e74c3c 50%, #f39c12 100%) !important;
-  margin: 0.5rem auto 2rem !important;
-  border-radius: 3px !important;
-  box-shadow: 0 2px 10px rgba(52, 152, 219, 0.3) !important;
-  animation: pulse-glow 2s infinite alternate !important;
-	animation: none !important; 
-}
-
-/* Subtle background sweep behind title */
-.entry-title::before {
-  content: '' !important;
-  position: absolute !important;
-  top: 0 !important;
-  left: 50% !important;
-  transform: translateX(-50%) !important;
-  width: 100% !important;
-  height: 100% !important;
-  background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(52,152,219,0.05) 100%) !important;
-  z-index: -1 !important;
-  border-bottom: 1px solid rgba(52, 152, 219, 0.1) !important;
-	background: white !important;
-}
-
-@keyframes pulse-glow {
-  0% {
-    box-shadow: 0 2px 10px rgba(52, 152, 219, 0.3);
-    transform: scaleX(1);
-  }
-  100% {
-    box-shadow: 0 4px 20px rgba(52, 152, 219, 0.5);
-    transform: scaleX(1.05);
-  }
-}
-
-/* Responsive entry title tweaks */
-@media (max-width: 768px) {
-  .entry-title {
-		font-size: 1.75em;
-    padding: 1.5rem 1rem 0.8rem !important;
-    margin: 0.5rem auto 0.5rem !important;
-  }
-  .entry-title::after {
-    width: 100px !important;
-    height: 5px !important;
-    margin: 0.3rem auto 1.5rem !important;
-  }
-}
-@media (max-width: 480px) {
-  .entry-title {
-    padding: 1rem 0.5rem 0.5rem !important;
-    margin: 0.3rem auto 0.3rem !important;
-  }
-  .entry-title::after {
-    width: 80px !important;
-    height: 4px !important;
-    margin: 0.2rem auto 1rem !important;
-  }
-}
-
-/* =========================================
-   Price Label Pattern (global utility)
-   ========================================= */
-.ssf-price { display:inline-flex; align-items: baseline; gap:.25rem; font-weight:700; }
-.ssf-price-label { font-weight:600; margin-right:.35rem; opacity:.85; }
-.ssf-price-value { font-size:1.25rem; line-height:1; }
-.ssf-price-period { font-size:.9rem; opacity:.8; }
-
-.ssf-blog-post {
-    padding-top: 0px;
-}
-
-
-
-/* Css from generate blocks*/
-@font-face {
-  font-family: 'generateblocks';
-  src:  url('../fonts/generateblocks.eot');
-  src:  url('../fonts/generateblocks.eot#iefix') format('embedded-opentype'),
-    url('../fonts/generateblocks.ttf') format('truetype'),
-    url('../fonts/generateblocks.woff') format('woff'),
-    url('../fonts/generateblocks.svg') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
-#adminmenu #toplevel_page_generateblocks div.wp-menu-image:before {
-	content: "\e900";
-	font-family: generateblocks;
-	font-size: 18px;
-	margin-top: 1px;
-}
-
-#adminmenu #toplevel_page_generateblocks a[href="admin.php?page=generateblocks-upgrade"] {
-	font-weight: 600;
-	background-color: #0171d5;
-	color: #fff;
-	margin: 3px 10px 0;
-	display: block;
-	text-align: center;
-	border-radius: 3px;
-	transition: all .3s;
-	box-shadow: 0 0 0;
-}
-/*End css from generate blocks*/
-
-/* ---------- FAQ ---------- */
-.ssf-faq { max-width: 100%; margin: 26px auto 0; }
-.ssf-faq-columns { columns: 2; column-gap: 20px; }
-.ssf-faq-item {
-  background: linear-gradient(135deg, rgba(232,62,140,.08), rgba(95,39,205,.08));
-  border: 1px solid rgba(95,39,205,.25);
-  border-radius: 12px; padding: 15px; margin-bottom: 15px; break-inside: avoid;
-}
-.ssf-faq-item summary { color: #2B2B2B; font-weight: 700; cursor: pointer; margin-bottom: 8px; }
-.ssf-faq-item p { margin: 8px 0 0; }
-.ssf-faq-item summary::-webkit-details-marker { font-size: 1.05em; }
-
-@media (max-width: 639.98px){
-  .ssf-amenities-grid{ grid-template-columns: 1fr; }
-  .ssf-faq-columns{ columns: 1; }
-}
-
-/* ========================================= 
-   Global Service Page Styles (svc-*)
-   Add to WordPress Global CSS
-   Reusable across all service pages
-========================================= */
-
-/* Design tokens - extend existing */
-:root {
-    --svc-primary: #5F27CD;
-    --svc-secondary: #E83E8C;
-    --svc-accent: #FF6F61;
-    --svc-gold: #FFD166;
-    --svc-text: #2B2B2B;
-    --svc-muted: #6b7280;
-    --svc-bg: #ffffff;
-    --svc-border: #eef0f4;
-    --svc-shadow: 0 10px 30px rgba(0,0,0,0.07);
-    --svc-radius: 12px;
-    --svc-max-width: 100%;
-}
-@media (min-width: 768px) {
-  :root {
-    --svc-max-width: 80%;
-  }
-}
-/* Service page container */
-.svc-container {
-    max-width: var(--svc-max-width);
-    margin: 0 auto;
-    padding: 0 1.5rem;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    line-height: 1.6;
-    color: var(--svc-text);
-}
-
-/* Service hero section */
-.svc-hero {
-    text-align: center;
-    padding: 3rem 0 2rem;
-    background: linear-gradient(135deg, rgba(95,39,205,0.03), rgba(232,62,140,0.03));
-    border-radius: var(--svc-radius);
-    margin-bottom: 3rem;
-}
-
-.svc-hero h1 {
-    font-size: clamp(2.5rem, 5vw, 3.5rem);
-    font-weight: 800;
-    line-height: 1.1;
-    margin-bottom: 1.5rem;
-    background: linear-gradient(135deg, var(--svc-primary), var(--svc-secondary));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.svc-hero-subtitle {
-    font-size: 1.25rem;
-    color: var(--svc-muted);
-    max-width: 600px;
-    margin: 0 auto 2rem;
-}
-
-.svc-hero-image {
-    width: 100%;
-    max-width: 1400px;
-    height: auto;
-    border-radius: var(--svc-radius);
-    box-shadow: var(--svc-shadow);
-}
-
-/* When the hero itself has a bold gradient background, use solid white text */
-.svc-hero--contrast { 
-  /* you can keep your inline gradient or move it here */
-  color: #fff;
-}
-
-.svc-hero--contrast h1 {
-  background: none;                 /* turn off gradient text */
-  -webkit-text-fill-color: #fff;    /* ensure white on Safari/WebKit */
-  color: #fff;                      /* fallback */
-  text-shadow: 0 2px 8px rgba(0,0,0,.15); /* gentle lift on busy bg */
-}
-
-.svc-hero--contrast .svc-hero-subtitle {
-  color: #fff;
-  opacity: .95;                     /* subtle de-emphasis */
-}
-
-/* Definition box */
-.definition-box {
-  background: rgba(95,39,205,.05);
-  border-left:4px solid var(--svc-primary);
-  padding:1rem 1.25rem; border-radius:0 8px 8px 0;
-  margin-top:.75rem;
-}
-
-/* Service content sections */
-.svc-section {
-    margin: 3rem 0;
-}
-
-.svc-section h2 {
-    color: var(--svc-primary);
-    margin-bottom: 1.5rem;
-    font-size: 2rem;
-    font-weight: 700;
-}
-
-.svc-section h3 {
-    color: var(--svc-secondary);
-    margin: 2rem 0 1rem;
-    font-size: 1.25rem;
-    font-weight: 600;
-}
-
-/* Service feature grid */
-.svc-features {
-    display: grid;
-    gap: 1.5rem;
-    margin: 2rem 0;
-}
-
-@media (min-width: 768px) {
-    .svc-features {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-.svc-feature-card {
-    background: var(--svc-bg);
-    border: 2px solid var(--svc-border);
-    border-radius: var(--svc-radius);
-    padding: 1.5rem;
-    transition: all 0.3s ease;
-}
-
-.svc-feature-card:hover {
-    border-color: var(--svc-primary);
-    transform: translateY(-2px);
-    box-shadow: var(--svc-shadow);
-}
-
-.svc-feature-card h4 {
-    color: var(--svc-primary);
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-}
-
-/* Service buttons (contrast + alignment fix) */
-
-.svc-btn {
-    display: inline-flex;
-    align-items: center;       /* vertical centering */
-    justify-content: center;   /* horizontal centering */
-    padding: 14px 24px;
-    border-radius: 999px;
-    font-weight: 700;
-    font-size: 1rem;
-    line-height: 1;            /* fix vertical alignment */
-	padding-bottom:15px;
-    text-decoration: none;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    margin: 0.5rem 0.5rem 0.5rem 0;
-    color: var(--svc-primary); /* default text color */
-}
-
-/* Gradient Button */
-.svc-btn-primary {
-    background: linear-gradient(135deg, var(--svc-secondary), var(--svc-primary));
-    color: white;  
-    border: none;
-    box-shadow: var(--svc-shadow);
-}
-
-.svc-btn-primary:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 30px rgba(95,39,205,0.3);
-    text-decoration: none;
-    color: var(--svc-primary) !important;
-}
-
-/* Outline Button */
-.svc-btn-secondary {
-    border: 2px solid var(--svc-primary);
-    color: var(--svc-primary) !important;
-    background: white;
-}
-
-.svc-btn-secondary:hover {
-    background: var(--svc-primary);
-    color: white !important; 
-    transform: translateY(-2px);
-    text-decoration: none;
-}
-
-/* Service testimonials */
-.svc-testimonial {
-    background: var(--svc-bg);
-    border-left: 4px solid var(--svc-secondary);
-    padding: 2rem;
-    margin: 2rem 0;
-    border-radius: 0 var(--svc-radius) var(--svc-radius) 0;
-    box-shadow: var(--svc-shadow);
-    font-style: italic;
-    position: relative;
-}
-
-.svc-testimonial::before {
-    content: '"';
-    font-size: 4rem;
-    color: var(--svc-secondary);
-    position: absolute;
-    top: -10px;
-    left: 10px;
-    opacity: 0.3;
-}
-
-.svc-testimonial-author {
-    font-weight: 600;
-    color: var(--svc-primary);
-    margin-top: 1rem;
-    font-style: normal;
-}
-
-
-
-/* Service schedule box */
-.svc-schedule {
-    background: linear-gradient(135deg, rgba(255,111,97,0.1), rgba(255,209,102,0.1));
-    border: 2px solid var(--svc-accent);
-    border-radius: var(--svc-radius);
-    padding: 2rem;
-    margin: 2rem 0;
-}
-
-.svc-schedule h3 {
-    color: var(--svc-accent);
-    margin-bottom: 1rem;
-}
-
-.svc-schedule-hours {
-    display: grid;
-    gap: 0.5rem;
-}
-
-.svc-schedule-day {
-    display: flex;
-    justify-content: space-between;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid rgba(255,111,97,0.2);
-}
-
-.svc-schedule-day:last-child {
-    border-bottom: none;
-}
-
-/* Service safety box */
-.svc-safety {
-    background: rgba(232,62,140,0.05);
-    border: 2px solid var(--svc-secondary);
-    border-radius: var(--svc-radius);
-    padding: 2rem;
-    margin: 2rem 0;
-}
-
-.svc-safety h3 {
-    color: var(--svc-secondary);
-    margin-bottom: 1rem;
-}
-
-/* Service pricing hint */
-.svc-pricing-note {
-    background: rgba(95,39,205,0.05);
-    border-left: 4px solid var(--svc-primary);
-    padding: 1rem 1.5rem;
-    margin: 1rem 0;
-    border-radius: 0 8px 8px 0;
-    font-style: italic;
-    color: var(--svc-muted);
-}
-
-/* Service separators */
-.svc-separator {
-    border: 0;
-    height: 2px;
-    width: 75%;
-    margin: 3rem auto;
-    background: linear-gradient(to right, var(--svc-secondary), var(--svc-primary), var(--svc-accent), var(--svc-gold));
-    border-radius: 20px;
-}
-
-/* Service contact footer */
-.svc-contact {
-    text-align: center;
-    padding: 3rem 0;
-    background: linear-gradient(135deg, rgba(95,39,205,0.03), rgba(232,62,140,0.03));
-    border-radius: var(--svc-radius);
-    margin-top: 3rem;
-}
-
-.svc-contact h2 {
-    margin-bottom: 1rem;
-    color: var(--svc-primary);
-}
-
-.svc-contact p {
-    color: var(--svc-muted);
-    margin-bottom: 2rem;
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-    .svc-container {
-        padding: 0 1rem;
-    }
-    
-    .svc-hero {
-        padding: 2rem 1rem;
-    }
-    
-    .svc-callout,
-    .svc-feature-card,
-    .svc-testimonial {
-        padding: 1.5rem;
-    }
-    
-    .svc-btn {
-        display: block;
-        margin: 0.5rem 0;
-        text-align: center;
-    }
-}
-
-/* 
-*
-*                Get Started Page
-*
-
-
-/* Guarantee Badge - Integrated in Hero */
-.guarantee-badge {
-    background: rgba(255,255,255,0.2);
-    border: 2px solid rgba(255,255,255,0.3);
-    border-radius: 50px;
-    padding: 1rem 2rem;
-    margin: 2rem 0;
-    font-weight: 600;
-    color: white;
-    backdrop-filter: blur(10px);
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 1rem;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    max-width: 90%;
-}
-
-.guarantee-icon {
-    font-size: 1.1rem;
-    filter: drop-shadow(0 1px 3px rgba(0,0,0,0.3));
-}
-
-/* Footer base */
-.svc-footer{
-  background: linear-gradient(135deg, rgba(95,39,205,.03), rgba(232,62,140,.03));
-  padding: 3rem 1rem 1.5rem;
-  color: var(--svc-text);
-}
-.svc-footer__grid{
-  max-width: var(--svc-max-width);
-  margin: 0 auto;
+/* Policy grid for service-specific rules */
+.policy-grid {
   display: grid;
-  gap: 1.75rem;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  gap: clamp(14px, 2vw, 20px);
 }
-@media (max-width: 1024px){
-  .svc-footer__grid{ grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 640px){
-  .svc-footer__grid{ grid-template-columns: 1fr; }
-}
-.svc-footer__col{ background:#fff; border:1px solid var(--svc-border); border-radius: var(--svc-radius); padding:1.25rem; box-shadow: var(--svc-shadow); }
-.svc-footer__logo{ width:56px; height:auto; margin-bottom:.5rem; }
-.svc-footer__heading{ font-size:1.1rem; font-weight:700; color:var(--svc-primary); margin:.25rem 0 .75rem; }
-.svc-footer__list{ list-style:none; margin:0; padding:0; }
-.svc-footer__list li{ margin:.4rem 0; }
-.svc-footer__list a{ text-decoration:none; }
-.svc-footer__list a:hover{ text-decoration:underline; }
-.svc-footer__nap a{ text-decoration:none; }
-.svc-footer__social{ margin-top:.5rem; }
 
-/* Footer bar */
-.svc-footerbar{
-  max-width: var(--svc-max-width);
-  margin: 1.25rem auto 0;
-  padding: 1rem 0 0;
-  border-top:1px solid var(--svc-border);
-  display:flex; align-items:center; justify-content:space-between;
-  font-size:.95rem;
+@media (max-width: 768px) {
+  .policy-grid {
+    grid-template-columns: 1fr;
+  }
 }
-@media (max-width:640px){
-  .svc-footerbar{ flex-direction:column; gap:.5rem; text-align:center; }
+
+/* Individual policy service cards */
+.policy-service {
+  background: rgba(95, 39, 205, 0.03);
+  border: 1px solid rgba(95, 39, 205, 0.15);
+  border-radius: 12px;
+  padding: 16px;
+  transition: all 0.3s ease;
 }
-.svc-footerbar__right a{ text-decoration:none; }
-.svc-footerbar__right a:hover{ text-decoration:underline; }
+
+.policy-service:hover {
+  border-color: var(--purple);
+  background: rgba(95, 39, 205, 0.06);
+  transform: translateY(-1px);
+}
+
+.policy-service h3 {
+  color: var(--purple);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 12px 0;
+}
+
+/* Policy lists */
+.policy-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.policy-list li {
+  margin: 6px 0;
+  padding-left: 16px;
+  position: relative;
+  color: var(--text);
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Custom bullet points */
+.policy-list li::before {
+  content: "•";
+  color: var(--purple);
+  font-weight: 700;
+  position: absolute;
+  left: 0;
+}
+
+/* Mobile responsiveness for booking policy */
+@media (max-width: 720px) {
+  .booking-policy-section {
+    margin-top: clamp(30px, 5vw, 40px);
+    margin-bottom: clamp(30px, 5vw, 40px);
+  }
+  
+  .policy-service {
+    padding: 14px;
+  }
+  
+  .policy-service h3 {
+    font-size: 1rem;
+  }
+  
+  .policy-list li {
+    font-size: 0.9rem;
+  }
+}
+
+/* ================================
+   SSF.Fit — On-Page Service Menu
+   Paste into page CSS or global CSS
+   ================================ */
+
+/* Smooth scroll */
+html { scroll-behavior:smooth; }
+
+/* Offset clicked anchors for fixed header (adjust as needed) */
+.svc-anchor { scroll-margin-top: var(--header-offset, 96px); }
+
+/* Container */
+.svc-onpage-nav {
+  position: sticky; top: var(--header-gap, 72px);
+  z-index: 30; /* stays under GP header but above content */
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.06);
+  border-radius: 14px;
+  padding: 8px;
+  margin: 16px 0 24px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.04);
+}
+
+/* List */
+.svc-onpage-nav ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px,1fr));
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Links */
+.svc-onpage-nav a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 1;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.06);
+  background: #fafafa;
+  color: #2b2b2b;
+  transition: transform .06s ease, background-color .15s ease, border-color .15s ease, color .15s ease;
+}
+
+/* Brand-aware colors with safe fallbacks */
+.svc-onpage-nav a:hover,
+.svc-onpage-nav a:focus-visible {
+  background: var(--magenta, #E83E8C);
+  color: #fff;
+  border-color: var(--magenta, #E83E8C);
+  transform: translateY(-1px);
+  outline: none;
+}
+
+/* CTA pill */
+.svc-onpage-nav a.cta {
+  background: linear-gradient(135deg, var(--magenta, #E83E8C), var(--purple, #5F27CD));
+  color: #fff;
+  border-color: transparent;
+}
+.svc-onpage-nav a.cta:hover,
+.svc-onpage-nav a.cta:focus-visible {
+  filter: brightness(1.05);
+}
+
+/* :target highlight after jump (no JS) */
+:target.svc-anchor::after {
+  content: "";
+  display: block;
+  height: 0; margin-top: 12px;
+  border-bottom: 3px solid var(--purple, #5F27CD);
+}
+
+/* Reduce stickiness on small screens */
+@media (max-width: 768px) {
+  .svc-onpage-nav { top: var(--header-gap-mobile, 56px); padding: 6px; }
+  .svc-onpage-nav a { padding: 10px 12px; font-weight: 600; }
+}
+
+/* High-contrast focus for accessibility */
+.svc-onpage-nav a:focus-visible { box-shadow: 0 0 0 3px rgba(95,39,205,.3); }
+
